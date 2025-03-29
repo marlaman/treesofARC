@@ -17,11 +17,10 @@ Each module can consist of complex reasoning frameworks that can use:
 
 Module are can then be combine using the same features to create a framework.
 
-\n
+</br>
 
 Currently, in the demo_framework - you can see two modules (i) Instruction Set Generation and (ii) Output Generation
 
-\n
 
 
 ## Features
