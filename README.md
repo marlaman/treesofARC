@@ -1,6 +1,12 @@
-# ARCAssist
+# Tree of ARC
 
-ARCAssist is an interactive tool designed to assist in solving Abstraction and Reasoning Corpus (ARC) puzzles using a combination of LLM-powered analysis and visual representation.
+Trees of ARC is a modular-reasoning framework aimed at boosting model performance on the ARC AGI 1 dataset. The project aims to break down decision making programatically using modules - which can each consist of complex reasoning frameworks that can use:
+
+1) Multiple LLM APIs
+2) Image Processing APIs
+3) Python Interpreter
+4) Programatic paradigms like loops, if-else, recursion, etc
+
 
 ## Features
 
