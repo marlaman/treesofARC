@@ -1,11 +1,18 @@
 # Tree of ARC
 
-Trees of ARC is a modular-reasoning framework aimed at boosting model performance on the ARC AGI 1 dataset. The project aims to break down decision making programatically using modules - which can each consist of complex reasoning frameworks that can use:
+Trees of ARC is a modular-reasoning framework aimed at boosting model performance on the ARC AGI 1 dataset. The project aims to break down decision making using complex reasoning frameworks which consist of reasoning modules that abstract a reasoning task like - Input Analysis, Idea Generation, Output Parsing, etc
+
+Each module can consist of complex reasoning frameworks that can use:
 
 1) Multiple LLM APIs
 2) Image Processing APIs
-3) Python Interpreter
+3) A Python Interpreter
 4) Programatic paradigms like loops, if-else, recursion, etc
+
+
+Module are can then be combine using the same features to create a framework.
+
+Currently, in the demo_framework - you can see two modules (i) Instruction Set Generation and (ii) Output Generation
 
 
 ## Features
