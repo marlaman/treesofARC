@@ -26,14 +26,6 @@ Currently, in the demo_framework - you can see two modules (i) Instruction Set G
 
 
 
-## Features
-
-- Interactive visualization of ARC puzzle-solving process
-- Real-time updates and step-by-step solution generation
-- Visual representation of puzzle matrices and transformations
-- LLM-powered reasoning and solution generation
-- Dynamic node-based visualization of the solution process
-
 ## Tech Stack
 
 ### Frontend
